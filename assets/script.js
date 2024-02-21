@@ -1,5 +1,15 @@
 function randompeter() {
   var pmessages = [
+    "Every day may not be good, but there's something good in every day.",
+    "The sun himself is weak when he first rises, and gathers strength and courage as the day gets on.",
+    "You are never too old to set another goal or to dream a new dream. - C.S. Lewis",
+    "Life is 10% what happens to us and 90% how we react to it. - Charles R. Swindoll",
+    "The only way to do great work is to love what you do. - Steve Jobs",
+    "In three words I can sum up everything I've learned about life: it goes on. - Robert Frost",
+    "Believe you can and you're halfway there. - Theodore Roosevelt",
+    "The future belongs to those who believe in the beauty of their dreams. - Eleanor Roosevelt",
+    "You are capable of more than you know. - Benjamin Spock",
+    "Life is short, smile while you still have teeth!",
     "Happiness is an inside job.",
     "Don't count the days, make the days count. - Muhammad Ali",
     "The best way to predict the future is to create it. - Peter Drucker",
